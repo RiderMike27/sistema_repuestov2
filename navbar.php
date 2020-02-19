@@ -33,8 +33,8 @@
                     <li class="<?php ?>">
                         <a href="home.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></i> Inicio</a>
                     </li>
-                    <li class="<?php ?>" id="add-new-item">
-                        <a href="#"><span class="glyphicon glyphicon-list" aria-hidden="true"></span> Compras</a>
+                    <li class="<?php ?>">
+                        <a href="compra.php"><span class="glyphicon glyphicon-list" aria-hidden="true"></span> Compras</a>
                     </li>
                     <li class="<?php ?>">
                         <a href="product.php"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Ventas</a>
